@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "name": "Bogala Venkateshwar Reddy",
+      "email": "venkat.stunz",
+      "phone": "8297043538",
+      "topic": "angular",
+      "subscribe": true,
+      "id": 1
+    },
+    {
+      "name": "prasanna kumar bollinenaa",
+      "email": "parasanna@gmail.com",
+      "phone": "1325626777",
+      "topic": "angular",
+      "subscribe": true,
+      "id": 2
+    },
+    {
+      "name": "venkat Reddy",
+      "email": "venkat.vv564@gmail.com",
+      "phone": "1325626777",
+      "topic": "angular",
+      "subscribe": true,
+      "id": 3
+    },
+    {
+      "name": "kiranmay",
+      "email": "venkat.stunz",
+      "phone": "1325626777",
+      "topic": "angular",
+      "subscribe": true,
+      "id": 4
+    },
+    {
+      "name": "venkateshwar",
+      "email": "venkat.vv564@gmail.com",
+      "phone": "8295533839",
+      "topic": "angular",
+      "subscribe": true,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
